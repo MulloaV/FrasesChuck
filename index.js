@@ -10,7 +10,6 @@ async function getFrase() {
 		console.log(error);
 	}
 }
-
 btn.addEventListener('click', getFrase);
-
 getFrase();
+ 
